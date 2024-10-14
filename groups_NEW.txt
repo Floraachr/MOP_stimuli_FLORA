@@ -1,0 +1,7 @@
+C: ɾ,l,r,m,n,b,d,g,f,s,p,t,k
+V: a,e,i,o,u
+O: l,r,m,n,b,d,g,f,s,ʃ,tʃ,p,t,k
+Cl: bl,dl,gl,pl,tl,kl,br,dr,gr,pr,tr,kr,bɾ,dɾ,gɾ,pɾ,tɾ,kɾ,sl,nl,fl,sr,nr,fr,sɾ,nɾ,fɾ
+stops: b,d,g,p,t,k
+liquids:l,r
+alveolar: s,n,f
