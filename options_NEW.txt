@@ -1,0 +1,3 @@
+structure: *O,*V,*Cl,*V
+syllables: 50
+display: '{index}) {syllable}\n'
